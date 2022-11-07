@@ -1,4 +1,4 @@
 baseURL = 'https://volkiisvolk.github.io/SWH/'
 languageCode = 'en-us'
-title = 'My Blog'
+title = 'Sketching with Hardware'
 theme ="hugo-theme-terminal-master"
