@@ -7,6 +7,7 @@ draft: false
 Am Mittwoch den 15.11.2022 konnten wir unsere ersten praktischen erfahrungen im Elektro-Technik Labor sammeln.
 Der Tag hat mit einer ausführliche und sehr informative Vorlesung zu Elektrotechnik, Leistun/Verlustleistung und Messen/Messtechnik begonnen.
 
+
 ## Versuch 1: Lötkolben und etwas Zinn
 
 Im anschluss wurden wir in zweiergruppe aufgeteilt und erhielten einen Lötkolben, etwas Flussmittel eine Lötlitze, Leiterplatten, sowie auch verschieden Wiederstände, die es galt auf die Leiterplatten zu lösten
@@ -47,5 +48,4 @@ Ich habe mir auch schon einen Steckplan in der Fritz Software gestalten, der es 
 {{< figure src="../static/Schaltplan.jpg"  width="60%" height="60%">}
 
 {{< figure src="../static/Steckplan.jpeg"  width="60%" height="60%">}}
-
 
