@@ -47,5 +47,5 @@ Ich habe mir auch schon einen Steckplan in der Fritz Software gestalten, der es 
 
 {{< figure src="../static/Schaltplan.jpg"  width="60%" height="60%">}
 
-{{< figure src="../static/Steckplan.jpeg"  width="60%" height="60%">}}
+{{< figure src="../static/Steckplan.jpg"  width="60%" height="60%">}}
 
