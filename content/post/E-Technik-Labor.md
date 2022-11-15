@@ -7,6 +7,7 @@ draft: false
 Am Mittwoch den 15.11.2022 konnten wir unsere ersten praktischen erfahrungen im Elektro-Technik Labor sammeln.
 Der Tag hat mit einer ausführliche und sehr informative Vorlesung zu Elektrotechnik, Leistun/Verlustleistung und Messen/Messtechnik begonnen.
 
+
 ## Versuch 1: Lötkolben und etwas Zinn
 
 Im anschluss wurden wir in zweiergruppe aufgeteilt und erhielten einen Lötkolben, etwas Flussmittel eine Lötlitze, Leiterplatten, sowie auch verschieden Wiederstände, die es galt auf die Leiterplatten zu lösten
@@ -43,6 +44,5 @@ Natürlich wollten wir auch wissen, wie viel Spannung wir haben und so schlossen
 Als mein erstes Projekt, habe ich mich für etwas entschieden, von dem ich als Kind schon immer geträumt habe. Einen eigenen DS zu entwickeln.
 
 Ich habe mir auch schon einen Steckplan in der Fritz Software gestalten, der es mir ermöglichen sollte, dieses DS zu bauen.
-
 
 
