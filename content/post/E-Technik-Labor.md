@@ -54,7 +54,7 @@ Als mein erstes Projekt, habe ich mich für etwas entschieden, von dem ich als K
 Ich habe mir auch schon einen Steckplan in der Fritz Software gestalten, der es mir ermöglichen sollte, dieses DS zu bauen.
 
 
-{{< figure src="../images/Schaltplan.jpg"  width="60%" height="60%">}
+{{< figure src="../images/Schaltplan.jpg"  width="60%" height="60%">}}
 
 {{< figure src="../images/Steckplan.jpg"  width="60%" height="60%">}}
 
