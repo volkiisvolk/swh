@@ -12,7 +12,7 @@ Der Tag hat mit einer ausführliche und sehr informative Vorlesung zu Elektrotec
 
 Im anschluss wurden wir in zweiergruppe aufgeteilt und erhielten einen Lötkolben, etwas Flussmittel eine Lötlitze, Leiterplatten, sowie auch verschieden Wiederstände, die es galt auf die Leiterplatten zu lösten
 
-{{< figure src="../static/first_loetthings.jpeg"  width="60%" height="60%">}}
+{{< figure src="static\first.jpeg"  width="60%" height="60%">}}
 
 
 Um mit dem Löten anzufangen, soltle man etwas Flussmittel nutzen, damit sich das bleifreie Zinn besser verflüssigt, im Anschluss habe ich dann gleich den Wiederstand dran gelötet. 
