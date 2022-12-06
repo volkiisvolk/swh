@@ -72,7 +72,7 @@ Dadurch hab ich es geschafft, dass meine LED Matrix ein A Anzeigt
 
 ## Was genau ist I2C Serielle Kommunikation
 
-{{< figure src="../images_micro/matrix.jpeg"  width="60%" height="60%">}}
+{{< figure src="../images/matrix.jpeg"  width="60%" height="60%">}}
 
 Dieser basiert auf dem Master-Slave-Prinzip und besteht aus 2 Leitunden, einer der Leitungen ist die Daten- und die andere die Taktleitung. Diese sind im Idle-Zustand und werden durch Pullupwiderstände auf hohem Pegel gehalten. Der Takt wird durch den Master genertiert, aber kann vom Slave solange auf 0 gehalten werden, bis der Slave weider bereit ist.
 
