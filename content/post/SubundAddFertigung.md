@@ -1,5 +1,5 @@
 ---
-title: "SubundAddFertigung"
+title: "Subtraktive-Fertigung"
 date: 2023-01-31T18:44:01+01:00
 draft: false
 ---
@@ -12,23 +12,3 @@ Im Labor können Materialien wie Holz, Kunststoff, Papier und Pappe bearbeitet w
 
 Der erste Schritt, um mein Projekt zu planen, bestand in der Materialauswahl. Ich habe mich für Holz entschieden, da der 3D-Druck für die gesamte Karosserie zu lange dauern würde. Die einzelnen Teile werden mit dem Laser ausgeschnitten und durch Kleben oder Stecken miteinander verbunden.
 
-##Addaitve-Fertigung
-
-Additive Fertigung ist die Verwendung von 3D-Druckern verschiedener Typen zur Herstellung von Objekten.
-Die bekanntesten 3D-Drucker sind: SLA, FDM, SLS, SPD.
-
-General fängt man immer mit dem 3D modelling an, dieses muss man dann als mesh exportieren und daraufolgend in einem slicer, slicen. Danach kann schon geprinted werden.
-
-Nach der Theorie, durften wir schon direkt anfangen, in Fusion360 unsere eigenen 3D  Modelle zu erstellen.
-
-Was diesesmal besonders war, unser Entwurf könnte sogar einen Nutzen für die Uni haben. Es gab also ein kleinen Wettbewerb, wer das beste bzw nützlichste und einfach zu installierenste Modell erstellt, in dem man Zettel zur Ausschau legen kann.
-
-Wer vorher fertig war, konnte sogar schon an seinem eigenem Modell arbeiten, was ich dann auch schon gemacht haben
-
-(BILD)
-
-
-
-
-****
-Leider hab ich derzeit keinen Zugang zu den Bildern, diese werde ich nachreichen.
