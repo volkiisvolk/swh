@@ -1,6 +1,7 @@
 ---
 title: "Micro"
 date: 2022-12-05T14:04:47+01:00
+featured_image: "../images_micro/sound.jpeg"
 draft: false
 ---
 
