@@ -4,7 +4,7 @@ date: 2023-02-28T12:22:08+01:00
 draft: false
 ---
 
-##Addaitve-Fertigung
+## Addaitve-Fertigung
 
 Additive Fertigung ist die Verwendung von 3D-Druckern verschiedener Typen zur Herstellung von Objekten.
 Die bekanntesten 3D-Drucker sind: SLA, FDM, SLS, SPD.

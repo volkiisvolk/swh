@@ -17,6 +17,8 @@ Als nächstes haben wir ein 3 Schaltgetriebe gebaut. Das zu bauen hat etwas Zeit
 ein getrbiebe funktioniert war das echt sehr gut.
 Nach dem und auch darüber nochmal Theorie erklärt wurde, durften wir uns selber entscheiden was zu bauen.
 
+{{< figure src="../images_micro/Getriebe.jpg" width="60%" height="60%">}}
+
 ## Ein Drehtisch
 
 Ich und mein Partner, haben uns entschieden einen Drehtisch zu bauen. Dieser war sogar mit einem Motor verbunden der den
@@ -25,3 +27,4 @@ zum drehen gerbacht hat.
 Alles im allen war die Vorlesung sehr Spaßig. Man hat die Zusammenhänge gut beigebracht bekommen. Und das bauen hat auch
 nochmal zur Verständnis beigetragen.
 
+{{< figure src="../images_micro/Tisch.jpg" width="60%" height="60%">}}
