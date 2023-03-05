@@ -3,7 +3,7 @@ title: "Mechanik"
 date: 2023-02-28T12:24:43+01:00
 draft: false
 ---
-##Theorie und die ersten Berührungen mit dem Fischer Set
+## Theorie und die ersten Berührungen mit dem Fischer Set
 
 In der Mechanik vorlesung wurden und die Grundlagen der Mechanik beigebracht. Wir haben erstmal mit der Theorie
 angefanen,
