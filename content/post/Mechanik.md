@@ -2,6 +2,8 @@
 title: "Mechanik"
 date: 2023-02-28T12:24:43+01:00
 draft: false
+featured_image: "../images_micro/Getriebe.jpg"
+description: "Mechanik Labor"
 ---
 ## Theorie und die ersten Berührungen mit dem Fischer Set
 
