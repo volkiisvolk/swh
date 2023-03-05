@@ -1,7 +1,7 @@
 ---
 title: "AddativeFertigung"
 date: 2023-02-28T12:22:08+01:00
-draft: true
+draft: false
 ---
 
 ##Addaitve-Fertigung
