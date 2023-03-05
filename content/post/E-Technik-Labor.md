@@ -2,6 +2,8 @@
 title: "E Technik Labor"
 date: 2022-11-15T14:29:12+01:00
 draft: false
+featured_image: "../images/first_loetthings.jpeg"
+description: "E-Technik-Labor"
 ---
 ## E-Technik-Labor
 Am Mittwoch den 15.11.2022 konnten wir unsere ersten praktischen erfahrungen im Elektro-Technik Labor sammeln.
