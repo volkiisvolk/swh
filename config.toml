@@ -1,4 +1,7 @@
 baseURL = 'https://volkiisvolk.github.io/SWH/'
 languageCode = 'en-us'
 title = 'SWH'
-theme ="ananke"
+[module]
+   [[module.imports]]
+     path = "github.com/theNewDynamic/gohugo-theme-ananke"
+     disable=false
