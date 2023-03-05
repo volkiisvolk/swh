@@ -2,13 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://volkiisvolk.github.io/SWH/categories/</loc>
+    <loc>https://volkiisvolk.github.io/SWH/post/</loc>
+    <lastmod>2023-03-05T13:11:50+01:00</lastmod>
+  </url><url>
+    <loc>https://volkiisvolk.github.io/SWH/post/praesentation/</loc>
+    <lastmod>2023-03-05T13:11:50+01:00</lastmod>
   </url><url>
     <loc>https://volkiisvolk.github.io/SWH/</loc>
+    <lastmod>2023-03-05T13:11:50+01:00</lastmod>
+  </url><url>
+    <loc>https://volkiisvolk.github.io/SWH/post/mechanik/</loc>
+    <lastmod>2023-02-28T12:24:43+01:00</lastmod>
+  </url><url>
+    <loc>https://volkiisvolk.github.io/SWH/post/addativefertigung/</loc>
+    <lastmod>2023-02-28T12:22:08+01:00</lastmod>
+  </url><url>
+    <loc>https://volkiisvolk.github.io/SWH/post/subundaddfertigung/</loc>
+    <lastmod>2023-01-31T18:44:01+01:00</lastmod>
+  </url><url>
+    <loc>https://volkiisvolk.github.io/SWH/post/micro/</loc>
+    <lastmod>2022-12-05T14:04:47+01:00</lastmod>
+  </url><url>
+    <loc>https://volkiisvolk.github.io/SWH/post/e-technik-labor/</loc>
+    <lastmod>2022-11-15T14:29:12+01:00</lastmod>
+  </url><url>
+    <loc>https://volkiisvolk.github.io/SWH/categories/</loc>
   </url><url>
     <loc>https://volkiisvolk.github.io/SWH/post/my-firstpost/</loc>
-  </url><url>
-    <loc>https://volkiisvolk.github.io/SWH/post/</loc>
   </url><url>
     <loc>https://volkiisvolk.github.io/SWH/tags/</loc>
   </url>
